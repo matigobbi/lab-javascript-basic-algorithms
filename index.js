@@ -78,7 +78,7 @@ console.log(
 
 if (hacker1.localeCompare(hacker2) == -1 ) {
   console.log (`${hacker1} goes first`)
-} else if (hacker1.localeCompare(hacker2) = 0) {
+} else if (hacker1.localeCompare(hacker2) == 0) {
   console.log (`What?! You both have the same name?`)
 } else {
   console.log (`Yo, ${hacker2} goes first definitely.`)
